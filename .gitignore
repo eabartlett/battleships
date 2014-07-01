@@ -1,0 +1,8 @@
+/node_modules/
+npm-debug.log
+
+*.iml
+.jshintrc
+.idea
+.travis.yml
+.yo-rc.json
